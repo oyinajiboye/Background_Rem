@@ -1,4 +1,5 @@
 # Highlights
+<img width="1440" alt="interface" src="https://github.com/oyinajiboye/Background_Rem/blob/main/Interface.png">
 
 This Streamlit script provides a web-based interface that allows users to remove the background from an uploaded image and optionally add a new background color (white, yellow, or blue).
 
